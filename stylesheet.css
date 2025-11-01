@@ -4,5 +4,9 @@ h1 {
 }
 
 body {
-  background-color: rgb(214, 243, 214);
+      background-color: rgb(214, 243, 214);
+}
+
+li.img {
+        vertical-align:middle;
 }
