@@ -10,5 +10,5 @@ body {
 li img {
   vertical-align: middle; /* Aligns image with text baseline */
   margin-left: 8px;        /* Adds spacing between bullet and image */
-  max-height: 1.5em;       /* Keeps image size consistent with text */
 }
+
