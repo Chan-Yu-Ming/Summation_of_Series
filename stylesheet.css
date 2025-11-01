@@ -7,6 +7,8 @@ body {
       background-color: rgb(214, 243, 214);
 }
 
-li.img {
-        vertical-align:middle;
+li img {
+  vertical-align: middle; /* Aligns image with text baseline */
+  margin-left: 8px;        /* Adds spacing between bullet and image */
+  max-height: 1.5em;       /* Keeps image size consistent with text */
 }
